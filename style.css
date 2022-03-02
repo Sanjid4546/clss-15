@@ -140,10 +140,10 @@ padding: 20px 30px;
 .blog-container{
     margin-top: 60px;
 }
-.blog-left-content{
-    float: left;
-    width: 70%;
-
+.blog-left-content {
+	float: left;
+	width: 70%;
+	margin-top: 42px;
 }
 .blog-left-notification{
 float: right;
@@ -172,7 +172,9 @@ width: 25%;
 
 }
 .blog-left-notification ul li {
-    list-style: none;
-    font-size: 25px;
-    border: 1px solid;
+	list-style: none;
+	font-size: 22px;
+	border: 1px solid;
+	padding: 4px 5px;
+	margin-bottom: 5px;
 }
